@@ -2,7 +2,7 @@
   "name": "simple-guide",
   "version": "1.0.0",
   "description": "a step component",
-  "main": "src/Step.js",
+  "main": "src/Guide.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "NODE_ENV=development webpack-dev-server --config ./config/webpack.config.dev.js",
