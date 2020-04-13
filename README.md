@@ -2,11 +2,11 @@
 
 ### useage
 ```jsx
-import Step from 'j-steps'
+import Guide from 'simple-guide'
 
 
 const StepContainer = props => (<div>
-        <Step config={{
+        <Guide config={{
                 describtions: [ // 每一步的配置
                     {
                         top: '100px', // 顶部距离
